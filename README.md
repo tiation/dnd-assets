@@ -1,10 +1,31 @@
-# D&D Character Portrait Assets 🎨
+# D\u0026D Assets Management System
 
-A collection of animated character portraits for D&D character sheets and applications.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licensesu0026logoColor=white)](https://hub.docker.com/r/tiation/dnd-assets)
 
-## 🎯 Overview
+## 🏰 About
 
-This repository contains high-quality animated GIF portraits for various D&D character classes and styles. The assets are designed to work seamlessly with the D&D Character Sheets SaaS application and other D&D-related projects.
+An enterprise-grade Dungeons \u0026 Dragons assets management system designed to handle character sheets, campaigns, maps, and game resources with modern DevOps practices and striking, edgy design.
+
+## 🎯 Mission
+
+This project is developed in collaboration with **ChaseWhiteRabbit NGO**, supporting their mission to create accessible, ethical, and innovative gaming solutions for communities worldwide.
+
+### ChaseWhiteRabbit NGO Partnership
+
+- **Mission Alignment**: Supporting accessible gaming and community building
+- **Ethical Development**: Following open-source principles and community-driven development
+- **Social Impact**: Enabling inclusive D\u0026D experiences for diverse communities
+- **Sustainability**: Built with long-term maintenance and scalability in mind
+
+## ✨ Features
+
+- 🎲 **Asset Management**: Comprehensive D\u0026D resource organization
+- 🏗️ **Enterprise Architecture**: Scalable, maintainable codebase
+- 🚀 **CI/CD Pipeline**: Automated testing, building, and deployment
+- 🐳 **Containerized**: Docker-ready for any environment
+- 📊 **Monitoring**: Integrated observability and health checks
+- 🔒 **Security**: Enterprise-grade security practices
+- 🎨 **Modern UI**: Striking, edgy design with accessibility focus
 
 ## 📁 Structure
 
